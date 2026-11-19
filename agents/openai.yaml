@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Totem"
+  short_description: "Local evidence-based conversational continuity checks"
+  default_prompt: "Use $ai-totem to evaluate continuity from an approved local baseline."
